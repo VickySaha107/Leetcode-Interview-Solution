@@ -1,6 +1,6 @@
-# Leetcode-Interview-Solution
+# Leetcode Interview Solution
+* IMPORTANT TOPICS:
 
-#  TOPICS USED
 ## Data Structures
 ### Linked List
  * A *Linked List* is a linear collection of data elements, called nodes, each
