@@ -9,20 +9,31 @@ Some basic data structure initiations may be pressumed and is listed below for r
 A binary tree node is initiated as follows:
 
 ```
-class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
+public class TreeNode {
+    int val;
+       TreeNode left;
+       TreeNode right;
+       TreeNode() {}
+       TreeNode(int val) { this.val = val; }
+       TreeNode(int val, TreeNode left, TreeNode right) {
+             this.val = val;
+             this.left = left;
+             this.right = right;
+     }
+}
 ```
 
 A linked list node is initiated as follows:
 
 ```
-class ListNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.next = None
+public class ListNode {
+    int val;
+        ListNode next;
+         ListNode() {}
+         ListNode(int val) { this.val = val; }
+         ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+         
+}
 ```
 
 ## Issues
