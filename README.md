@@ -34,7 +34,7 @@ class ListNode(object):
 - This list of problems is neither exclusive nor exhaustive.
 - This repository does not contain another important part of tech interviews, system design problems.
 
-### IMPORTANT TOPICS FOR INTERVIEW PREPARATION
+## IMPORTANT TOPICS FOR INTERVIEW PREPARATION:
 
 ## Data Structures
 ### Linked List
