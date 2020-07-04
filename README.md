@@ -1,4 +1,7 @@
 # Leetcode Interview Solution
+
+<img width="978" alt="Screenshot 2020-07-04 at 11 28 31 PM" src="https://user-images.githubusercontent.com/65163298/86518303-4bffc000-be4e-11ea-947a-930a1fca5c6d.png">
+
 This repository contains solutions to a set of problems from https://leetcode.com (highly recommended for interview preperation).
 
 There are quite a few repositories available already that are more exhaustive, plus the discuss forum in leetcode is excellent too (go check them out!). This particular repository **serves a different purpose** -- it takes each problem as if posed by an interviewer, and very briefly chalks out the possible questions the interviewee should ask, the early comments one may make about their approach, and a very mediocre solution. Mostly easy and medium level problems are addressed. Please note that this should provide an interview prep suggestions, not the cool or even the most efficient solution.
